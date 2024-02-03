@@ -1,0 +1,786 @@
+[
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Baazigar O Baazigar",
+    "album": {
+      "name": "Baazigar (Original Motion Picture Soundtrack)",
+      "id": "MPREb_xVuSXusCRfg"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "6pb1gw2xSD8",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "7:40",
+    "year": null,
+    "artists": [
+      {
+        "name": "Kumar Sanu",
+        "id": "UCQd9dydn5gaib_uuVVkYZTQ"
+      },
+      {
+        "name": "Alka Yagnik",
+        "id": "UCptBkLZ6XRxoyn8SkUMc_Iw"
+      }
+    ],
+    "duration_seconds": 460,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/G07jxQVDY4XB1FA0iWi-T6otGfZ0IZ7NEWPxFpfbcll2MpXgSxqCwrgr_JnXlBIV0zp2KVfaC4A6sJ7ymA=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/G07jxQVDY4XB1FA0iWi-T6otGfZ0IZ7NEWPxFpfbcll2MpXgSxqCwrgr_JnXlBIV0zp2KVfaC4A6sJ7ymA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Baazigar",
+    "album": {
+      "name": "Gunehgar",
+      "id": "MPREb_JaBW6p39dCE"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "Afh-9qQYDEk",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:50",
+    "year": null,
+    "artists": [
+      {
+        "name": "DIVINE",
+        "id": "UCKmB5zwbEfmx4hqdTjLHDfQ"
+      },
+      {
+        "name": "Armani White",
+        "id": "UChx3Pzruo8Zq_-pHBjNhZ0g"
+      }
+    ],
+    "duration_seconds": 170,
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/ruuVwSt-poGgFU_0snVnkJ4hU6lLty3u5pwlyTv6JM2IF66P7MMwsX3VVjwZ5g_dR5WanIXL0ugkFCVZ=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ruuVwSt-poGgFU_0snVnkJ4hU6lLty3u5pwlyTv6JM2IF66P7MMwsX3VVjwZ5g_dR5WanIXL0ugkFCVZ=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Kitaben Bahut Si",
+    "album": {
+      "name": "Baazigar (Original Motion Picture Soundtrack)",
+      "id": "MPREb_xVuSXusCRfg"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "0vWhZssFtVs",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "6:30",
+    "year": null,
+    "artists": [
+      {
+        "name": "Asha Bhosle",
+        "id": "UCbp5cZLtFE6y7XdhvJeT0Qw"
+      },
+      {
+        "name": "Vinod Rathod",
+        "id": "UCj1Nclm1w3-Dj7vlhBTaeUw"
+      }
+    ],
+    "duration_seconds": 390,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/G07jxQVDY4XB1FA0iWi-T6otGfZ0IZ7NEWPxFpfbcll2MpXgSxqCwrgr_JnXlBIV0zp2KVfaC4A6sJ7ymA=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/G07jxQVDY4XB1FA0iWi-T6otGfZ0IZ7NEWPxFpfbcll2MpXgSxqCwrgr_JnXlBIV0zp2KVfaC4A6sJ7ymA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Baazigar O Baazigar (Jhankar Beats)",
+    "album": {
+      "name": "Duets of Kumar Sanu Khanak (Jhankar Ki)",
+      "id": "MPREb_DbXlji54S7j"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "rFrGhcxnOGc",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "7:16",
+    "year": null,
+    "artists": [
+      {
+        "name": "Kumar Sanu",
+        "id": "UCQd9dydn5gaib_uuVVkYZTQ"
+      },
+      {
+        "name": "Alka Yagnik",
+        "id": "UCptBkLZ6XRxoyn8SkUMc_Iw"
+      }
+    ],
+    "duration_seconds": 436,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/x3_ZrlydgQJHQV6vi3JA9oLwZPryve5qZmIM1O07eALRIPL6L3sG7CkLH5Dcsfs1X1Cg-lqLk6KiXHAI=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/x3_ZrlydgQJHQV6vi3JA9oLwZPryve5qZmIM1O07eALRIPL6L3sG7CkLH5Dcsfs1X1Cg-lqLk6KiXHAI=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Chhupana Bhi Nahin Aata",
+    "album": {
+      "name": "Baazigar (Original Motion Picture Soundtrack)",
+      "id": "MPREb_xVuSXusCRfg"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "pX0O-t82zTg",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "7:00",
+    "year": null,
+    "artists": [
+      {
+        "name": "Vinod Rathod",
+        "id": "UCj1Nclm1w3-Dj7vlhBTaeUw"
+      }
+    ],
+    "duration_seconds": 420,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/G07jxQVDY4XB1FA0iWi-T6otGfZ0IZ7NEWPxFpfbcll2MpXgSxqCwrgr_JnXlBIV0zp2KVfaC4A6sJ7ymA=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/G07jxQVDY4XB1FA0iWi-T6otGfZ0IZ7NEWPxFpfbcll2MpXgSxqCwrgr_JnXlBIV0zp2KVfaC4A6sJ7ymA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Baazigar O Baazigar (Instrumental)",
+    "album": {
+      "name": "Baazigar (Instrumental) (Original Motion Picture Soundtrack)",
+      "id": "MPREb_J0GM4hUiZCr"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "QE1nOwJ8Mcc",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "7:37",
+    "year": null,
+    "artists": [
+      {
+        "name": "Manohari Singh",
+        "id": "UCmUkpLRIQEOERZ-LvJzxZ2w"
+      },
+      {
+        "name": "Ramakant Patil",
+        "id": "UC_7PAGJDZlpx3fYI_Mz0A-A"
+      }
+    ],
+    "duration_seconds": 457,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/e6M7WOzvZmqxocBSRU-G-iBuOAFYjYWKnQ1p4GZiGVsqQmq5EXxWF3XxK2WUSQjJ64FYlgrEdS6WBZKe=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/e6M7WOzvZmqxocBSRU-G-iBuOAFYjYWKnQ1p4GZiGVsqQmq5EXxWF3XxK2WUSQjJ64FYlgrEdS6WBZKe=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Circus",
+    "album": {
+      "name": "Circus",
+      "id": "MPREb_1EWh0ZLHqcc"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "10J_pHHP8vo",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "1:39",
+    "year": null,
+    "artists": [
+      {
+        "name": "Tera Baazigar",
+        "id": "UC5hi0EKWnGqyTOW_pBl4G-w"
+      }
+    ],
+    "duration_seconds": 99,
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/-5-vf_OTqtCT6jlUJZJvXKg4N4p2UvBcCxIvLj_g8hvX3tCnE8YZsuSKAE6WasmI1lqhGJEC6AhFnjv8=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/-5-vf_OTqtCT6jlUJZJvXKg4N4p2UvBcCxIvLj_g8hvX3tCnE8YZsuSKAE6WasmI1lqhGJEC6AhFnjv8=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Jhoothe Sab",
+    "album": {
+      "name": "Jhoothe Sab",
+      "id": "MPREb_OHj4vDtsTvX"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "VspzT8OkE7E",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:36",
+    "year": null,
+    "artists": [
+      {
+        "name": "Baazigar",
+        "id": "UCohoOxbdt0LIgP5qK3LA5SA"
+      }
+    ],
+    "duration_seconds": 216,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/HYf68rw-MbQdkiYl563BUWU-0JR8Et9S4ijJy-GWOd5QxxkitxSUwzKRVul5ieLSonCQ8XUL__E3dQLj=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HYf68rw-MbQdkiYl563BUWU-0JR8Et9S4ijJy-GWOd5QxxkitxSUwzKRVul5ieLSonCQ8XUL__E3dQLj=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Baazigar X MC ST\u0394N",
+    "album": {
+      "name": "Baazigar X MC ST\u0394N",
+      "id": "MPREb_KyEx6ElxoOO"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "m2pyLAJ9RzQ",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:06",
+    "year": null,
+    "artists": [
+      {
+        "name": "HIMEL",
+        "id": null
+      }
+    ],
+    "duration_seconds": 126,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/qvcIb7xeHzV2vw4SvfU7wv723D5dWZaJ16brS8eDnFzI9FnYmKMptN1hOpjI6yjsfn2CTxOpN9wVhNc=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/qvcIb7xeHzV2vw4SvfU7wv723D5dWZaJ16brS8eDnFzI9FnYmKMptN1hOpjI6yjsfn2CTxOpN9wVhNc=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Charo Pase Note (CPN) (feat. Official Bhagat)",
+    "album": {
+      "name": "Charo Pase Note (CPN)",
+      "id": "MPREb_mA5Hp5PyuRv"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "mRqrCpHE9Fw",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:18",
+    "year": null,
+    "artists": [
+      {
+        "name": "Baazigar",
+        "id": "UCohoOxbdt0LIgP5qK3LA5SA"
+      }
+    ],
+    "duration_seconds": 138,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/WHGvwVOcXn6vGGISSS-1_n-oSAPbn-3FmNctJksOo__HRNkx7wqT8sDRULsalAS01_UI20B1FAk1R8Kw=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/WHGvwVOcXn6vGGISSS-1_n-oSAPbn-3FmNctJksOo__HRNkx7wqT8sDRULsalAS01_UI20B1FAk1R8Kw=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Chhupana Bhi Nahin Aata (With Jhankar Beats)",
+    "album": {
+      "name": "Baazigar (With Jhankar Beats) (Original Motion Picture Soundtrack)",
+      "id": "MPREb_ifWUnPZ0pto"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "0kDIP6H9lgA",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "7:02",
+    "year": null,
+    "artists": [
+      {
+        "name": "Vinod Rathod",
+        "id": "UCj1Nclm1w3-Dj7vlhBTaeUw"
+      }
+    ],
+    "duration_seconds": 422,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/YXkTQ8sS8bUwsbrvIUTslvlLsu6ChUwHzN9CluGlu45dsGhlAstqZqXBQQlJLOq7rhEmITarZC-hf3me=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/YXkTQ8sS8bUwsbrvIUTslvlLsu6ChUwHzN9CluGlu45dsGhlAstqZqXBQQlJLOq7rhEmITarZC-hf3me=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Baazigar",
+    "album": {
+      "name": "Baazigar",
+      "id": "MPREb_9Pbm7UU0jCp"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "DL1EiRg_ej4",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "1:51",
+    "year": null,
+    "artists": [
+      {
+        "name": "Baazigar",
+        "id": "UCohoOxbdt0LIgP5qK3LA5SA"
+      }
+    ],
+    "duration_seconds": 111,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/fijtzsj_ksJBdmNOD86MFMUW0edtbG8dps3Olm3Z0NOmJSpDebV4OcKFTGycOBLSByA5XzfpcuWueYtjZA=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/fijtzsj_ksJBdmNOD86MFMUW0edtbG8dps3Olm3Z0NOmJSpDebV4OcKFTGycOBLSByA5XzfpcuWueYtjZA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Kaisi Teri Khudgharzi (Original Score)",
+    "album": {
+      "name": "Kaisi Teri Khudgharzi (Original Score)",
+      "id": "MPREb_HUrjBjSxiLu"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "iMUnUZQXO4I",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "6:10",
+    "year": null,
+    "artists": [
+      {
+        "name": "Rahat Fateh Ali Khan & Sehar Gul Khan",
+        "id": null
+      }
+    ],
+    "duration_seconds": 370,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/zteFVz-2HffgRsuU8C6zIdP7tAL8FvYft0NlNIOgjjnD6ElAXIRt2Ki0WPUvuepdh1HltxUkU4BXbeJo=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/zteFVz-2HffgRsuU8C6zIdP7tAL8FvYft0NlNIOgjjnD6ElAXIRt2Ki0WPUvuepdh1HltxUkU4BXbeJo=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Baazigar (Santali)",
+    "album": {
+      "name": "Baazigar",
+      "id": "MPREb_gl2Kin2hAZB"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "tSYqFS1yu5Y",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "4:47",
+    "year": null,
+    "artists": [
+      {
+        "name": "Royal Bhanu",
+        "id": "UCMZ_CvRjgM_9nPJ4yp_zYAA"
+      }
+    ],
+    "duration_seconds": 287,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/XLKjE-X4VOgKvJRL71i1jf8v-7IRkQ1IGaRwmQnXx1RKG_012Idy5u8YV4Hq60hbztMEktSp6FrXr40=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/XLKjE-X4VOgKvJRL71i1jf8v-7IRkQ1IGaRwmQnXx1RKG_012Idy5u8YV4Hq60hbztMEktSp6FrXr40=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Baazigar",
+    "album": {
+      "name": "Baazigar",
+      "id": "MPREb_FChCNYc7G5Q"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "sDa3vXQyDSM",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "2:48",
+    "year": null,
+    "artists": [
+      {
+        "name": "Kanchan Sen Sharma & Sher Saad",
+        "id": null
+      }
+    ],
+    "duration_seconds": 168,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/rMh78IDYn6izzgAwABtHokKtT6TWvdknql_JssQVo3JVX-3vgZCgT2Km--aNPbxQ1ekkreZ8kIbQ0XYZ=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/rMh78IDYn6izzgAwABtHokKtT6TWvdknql_JssQVo3JVX-3vgZCgT2Km--aNPbxQ1ekkreZ8kIbQ0XYZ=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Nusta Paisa",
+    "album": {
+      "name": "Nusta Paisa",
+      "id": "MPREb_5KPNb0N06gv"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "PtBQKus3Lpw",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:40",
+    "year": null,
+    "artists": [
+      {
+        "name": "MC STAN",
+        "id": "UCXPnAUkxJtng8M_5yWuSTjw"
+      }
+    ],
+    "duration_seconds": 220,
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/KV6F1rIjhY9M3szqajjXh7glpymkR9Grmx5gK8b7cI-JoTyAabyUEFDgXAlmmPCqqPNGXA9QQEYTzG1W=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/KV6F1rIjhY9M3szqajjXh7glpymkR9Grmx5gK8b7cI-JoTyAabyUEFDgXAlmmPCqqPNGXA9QQEYTzG1W=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Aisi Deewangi",
+    "album": {
+      "name": "Deewana (Original Motion Picture Soundtrack)",
+      "id": "MPREb_rw2ap3L4sps"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "H0z31jWUYr4",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "6:56",
+    "year": null,
+    "artists": [
+      {
+        "name": "Alka Yagnik",
+        "id": "UCptBkLZ6XRxoyn8SkUMc_Iw"
+      },
+      {
+        "name": "Vinod Rathod",
+        "id": "UCj1Nclm1w3-Dj7vlhBTaeUw"
+      }
+    ],
+    "duration_seconds": 416,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/I14bpSw1qnKRfHy3EWEVgouhWTjUGCRYiI4PbaiG6YopB7D5uJAGS9gkvI0CHDU0P_X6z5BGWmuCGshB=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/I14bpSw1qnKRfHy3EWEVgouhWTjUGCRYiI4PbaiG6YopB7D5uJAGS9gkvI0CHDU0P_X6z5BGWmuCGshB=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Khalbali",
+    "album": {
+      "name": "Khalbali",
+      "id": "MPREb_p370ylvaZMq"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "Rin_49_63F4",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "1:23",
+    "year": null,
+    "artists": [
+      {
+        "name": "Tera Baazigar",
+        "id": "UC5hi0EKWnGqyTOW_pBl4G-w"
+      }
+    ],
+    "duration_seconds": 83,
+    "isExplicit": true,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/5tY9uxdm6ybfj_gfrnKOqsWxwIvnHSUljH0oeJ_50c4WsuQWwyc3SHLE2xx36dvoYeHgkQ6S-nEkfCxv=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/5tY9uxdm6ybfj_gfrnKOqsWxwIvnHSUljH0oeJ_50c4WsuQWwyc3SHLE2xx36dvoYeHgkQ6S-nEkfCxv=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Chhupana Bhi Nahin Aata",
+    "album": {
+      "name": "Baazigar (Original Motion Picture Soundtrack)",
+      "id": "MPREb_xVuSXusCRfg"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "zmuLpB4cUzY",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "5:23",
+    "year": null,
+    "artists": [
+      {
+        "name": "Pankaj Udhas",
+        "id": "UC0I7P10db9phmBaZ4M7vqaQ"
+      }
+    ],
+    "duration_seconds": 323,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/G07jxQVDY4XB1FA0iWi-T6otGfZ0IZ7NEWPxFpfbcll2MpXgSxqCwrgr_JnXlBIV0zp2KVfaC4A6sJ7ymA=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/G07jxQVDY4XB1FA0iWi-T6otGfZ0IZ7NEWPxFpfbcll2MpXgSxqCwrgr_JnXlBIV0zp2KVfaC4A6sJ7ymA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "category": "Songs",
+    "resultType": "song",
+    "title": "Jaadugar",
+    "album": {
+      "name": "Mtv Hustle 2.0",
+      "id": "MPREb_gAcAn81j5Qc"
+    },
+    "inLibrary": false,
+    "feedbackTokens": {
+      "add": null,
+      "remove": null
+    },
+    "videoId": "u-ql97uYbAE",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:01",
+    "year": null,
+    "artists": [
+      {
+        "name": "Paradox",
+        "id": "UCgpHKuJ6llqwttLVJV6snYg"
+      }
+    ],
+    "duration_seconds": 181,
+    "isExplicit": false,
+    "thumbnails": [
+      {
+        "url": "https://lh3.googleusercontent.com/qD9rLD7WwZ9L8O7XdJnzUBEWn2h2W5-MAJ7VWmKcGhGTRA60ikG3YRp7GahFvbwEBftGXCRejMIRtPV-UA=w60-h60-l90-rj",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/qD9rLD7WwZ9L8O7XdJnzUBEWn2h2W5-MAJ7VWmKcGhGTRA60ikG3YRp7GahFvbwEBftGXCRejMIRtPV-UA=w120-h120-l90-rj",
+        "width": 120,
+        "height": 120
+      }
+    ]
+  }
+]
